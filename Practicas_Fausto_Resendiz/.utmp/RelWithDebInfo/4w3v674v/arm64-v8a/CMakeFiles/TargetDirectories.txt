@@ -1,0 +1,5 @@
+C:/Users/FAUST/Tlamat/.utmp/RelWithDebInfo/4w3v674v/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/FAUST/Tlamat/.utmp/RelWithDebInfo/4w3v674v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/FAUST/Tlamat/.utmp/RelWithDebInfo/4w3v674v/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/FAUST/Tlamat/.utmp/RelWithDebInfo/4w3v674v/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/FAUST/Tlamat/.utmp/RelWithDebInfo/4w3v674v/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
